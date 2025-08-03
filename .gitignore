@@ -1,0 +1,8 @@
+.vs
+.env
+bin
+obj
+*.user
+Properties
+release
+BenchmarkDotNet.Artifacts
