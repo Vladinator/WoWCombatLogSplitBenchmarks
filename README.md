@@ -1,6 +1,6 @@
 # WoWCombatLogSplitBenchmarks
 
-Benchmarks for the `WoWCombatLogSplit` project.
+Benchmarks for the [WoWCombatLogSplit](https://github.com/Vladinator/WoWCombatLogSplit) project.
 
 ## Requirements
 
